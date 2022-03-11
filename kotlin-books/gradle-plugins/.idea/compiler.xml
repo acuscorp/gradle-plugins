@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="acuscorp" target="1.8" />
+      <module name="acuscorp.main" target="1.8" />
+      <module name="acuscorp.test" target="1.8" />
+      <module name="oreilly-books" target="1.8" />
+      <module name="oreilly-books.app" target="1.8" />
+      <module name="oreilly-books.app.main" target="1.8" />
+      <module name="oreilly-books.app.test" target="1.8" />
+      <module name="oreilly-books.core" target="1.8" />
+      <module name="oreilly-books.core.main" target="1.8" />
+      <module name="oreilly-books.core.test" target="1.8" />
+      <module name="oreilly-books.main" target="1.8" />
+      <module name="oreilly-books.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
