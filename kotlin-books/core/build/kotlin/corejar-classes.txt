@@ -1,1 +1,1 @@
-C:\Users\Noe Acuna\Documents\Oreilly\kotlin-books\core\build\classes\kotlin\main\acuscorp\CoreKt.class
+/mnt/c/Users/Noe Acuna/Documents/Oreilly/kotlin-books/core/build/classes/kotlin/main/acuscorp/CoreKt.class
