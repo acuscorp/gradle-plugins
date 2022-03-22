@@ -35,7 +35,6 @@
             <option value="$PROJECT_DIR$/build-logic" />
             <option value="$PROJECT_DIR$/kotlin-books" />
             <option value="$PROJECT_DIR$/kotlin-books/app" />
-            <option value="$PROJECT_DIR$/kotlin-books/buildSrc" />
             <option value="$PROJECT_DIR$/kotlin-books/core" />
           </set>
         </option>

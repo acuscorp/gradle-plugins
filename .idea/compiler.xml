@@ -5,6 +5,11 @@
       <module name="acuscorp" target="1.8" />
       <module name="acuscorp.main" target="1.8" />
       <module name="acuscorp.test" target="1.8" />
+      <module name="kotlin-books.buildSrc" target="1.8" />
+      <module name="kotlin-books.buildSrc.main" target="1.8" />
+      <module name="kotlin-books.buildSrc.test" target="1.8" />
+      <module name="kotlin-books.main" target="1.8" />
+      <module name="kotlin-books.test" target="1.8" />
       <module name="oreilly-books" target="1.8" />
       <module name="oreilly-books.app" target="1.8" />
       <module name="oreilly-books.app.main" target="1.8" />
