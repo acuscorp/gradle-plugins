@@ -11,12 +11,12 @@ import org.gradle.api.internal.initialization.ClassLoaderIds.buildScript
 
 rootProject.name = "kotlin-books"
 
-
 includeBuild("../build-logic")
+
 gradle.rootProject {
   buildscript{
     dependencies{
-      classpath("acuscorp:build-logic:10.")
+      classpath("acuscorp:build-logic:1.0")
     }
     repositories {
       gradlePluginPortal()  
